@@ -14,6 +14,7 @@ enum ArticleEndpoint : EndpointProtocol{
     case getArticlesFromSource(_ source: String)
     case searchForArticles(searchFilter: String)
     
+    
     var baseURL: String {
         return Constant.API.basicUrl
     }

@@ -10,6 +10,6 @@ import Foundation
 enum Constant {
     enum API {
         static let basicUrl = "https://newsapi.org/v2/"
-        static let apiKey = "9d22ee2c317f440cb7c5fca60f7e7255" // ** INSERT HERE YOUR NEWS KEY ** //https://newsapi.org/
+        static let apiKey = "51026f4e15724f728d01068dbf418122" // ** INSERT HERE YOUR NEWS KEY ** //https://newsapi.org/
     }
 }
